@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175080614704",
+    "project_id": "uploadimage-60dd7",
+    "storage_bucket": "uploadimage-60dd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175080614704:android:a129121445953dd13e36f5",
+        "android_client_info": {
+          "package_name": "com.alaqsa.android_lab.firebaseimagestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175080614704-lauckmoojj0sk46bju85c1lrkb7saa75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0AoCo9LTPWNa-kcMD_VA6iL5o9tfhus0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175080614704-lauckmoojj0sk46bju85c1lrkb7saa75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
